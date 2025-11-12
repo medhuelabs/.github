@@ -5,7 +5,7 @@ commands. Our product, Tmates, lets you create AI teammates, talk to them like c
 tasks, and get results while you stay focused. They keep running when you're offline, learn from
 feedback, and can be tailored to life and work.
 
-Anyone can build a teammate with our TmatesAgentSDK. Feel free to explore our open source software and reach out.
+Anyone can build a teammate with our TmatesAgentsSDK. Feel free to explore our open source software and reach out.
 <!--
 
 **Here are some ideas to get you started:**

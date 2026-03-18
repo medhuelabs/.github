@@ -1,4 +1,4 @@
-## What is MedHue Labs?
+# Welcome to MedHue Labs
 
 MedHue Labs is a company that blends art, science, and technology to build products more intuitive, visual, and accessible.
 
